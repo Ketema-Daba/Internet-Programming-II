@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h1>GROUP 2 Project</h1>
     <div class="container">
         <h2>User Registration Form</h2>
         <form action="process.php" method="POST">
