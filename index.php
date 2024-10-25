@@ -17,14 +17,14 @@
             <label for="mname">Middle Name:</label>
             <input type="text" id="mname" name="mname">
 
+
             <label for="lname">Last Name:</label>
             <input type="text" id="lname" name="lname" required>
 
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required>
 
-            <label for="phone">Phone Number:</label>
-            <input type="text" id="phone" name="phone" required>
+          
 
             <label for="gender">Gender:</label>
             <select id="gender" name="gender" required>
